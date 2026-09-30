@@ -50,6 +50,6 @@ Durante o desenvolvimento foram aplicados:
 
 
 ## Autor
-Desenvolvido por Luan Santos da Silva
+Desenvolvido por Luan Santos da Silva/
 Feito em SENAI-Palhoça
 
